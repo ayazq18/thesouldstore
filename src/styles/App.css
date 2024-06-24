@@ -1,0 +1,29 @@
+/* .global-container{
+    margin-top:4rem;
+} */
+/* .toggle-btn-container{
+    margin-top: 2rem;
+   margin-left: 28rem;
+   
+}
+.btn-toggle{
+    padding: 10px;
+    margin-left: 2rem;
+    width: 12rem;
+    
+}
+.img{
+    width: 100vw;
+}
+/* .form-parent{
+    width: 50vw;
+} */ 
+
+.flexXY{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.active{
+    background-color: grey;
+}
